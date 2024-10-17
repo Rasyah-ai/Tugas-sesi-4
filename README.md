@@ -1,4 +1,5 @@
 public class Pola1 {
+
     public static void main(String[] args) {
         for (int i = 1; i <= 4; i++) {
             for (int j = 1; j <= i; j++) {
@@ -14,6 +15,7 @@ public class Pola1 {
 
 
 public class Pola2 {
+
     public static void main(String[] args) {
         int num = 1;
         int count = 0;
@@ -41,6 +43,7 @@ public class Pola2 {
 
 
 public class Pola3 {
+
     public static void main(String[] args) {
         int[][] array = {
             {1, 2, 3, 4, 5},
@@ -63,6 +66,7 @@ public class Pola3 {
 
 
 public class Pola4 {
+
     public static void main(String[] args) {
         int[][] array = {
             {-1, 0, -1, 0, -1},
@@ -85,6 +89,7 @@ public class Pola4 {
 
 
 public class Pola5 {
+
     public static void main(String[] args) {
         char[][] array = {
             {'*'},
